@@ -1,0 +1,63 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 300%;
+    margin: 10PX;
+
+}
+
+.container-fluid {
+    background-color: rgb(160, 72, 31);
+    overflow: auto;
+    margin-bottom: 50px;
+
+
+
+}
+
+.navi {
+    float: right;
+
+}
+
+.navi li {
+    list-style: none;
+    display: inline-block;
+    font-size: 150%;
+    padding-top: 1%;
+
+
+
+
+
+
+}
+
+.navi li a {
+
+    text-decoration: none;
+    color: aliceblue;
+
+
+
+
+}
+
+div.mypara1 {
+    margin: 2px;
+    border: 1px solid green;
+    display: grid;
+    float: left;
+
+}
